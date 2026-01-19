@@ -1,0 +1,17 @@
+Main pipeline to build this shit 
+
+Raw Documents
+   ↓
+Normalization
+   ↓
+Tokenization
+   ↓
+Indexing (Inverted Index)
+   ↓
+Statistics (TF, DF, Doc Length)
+   ↓
+Ranking (BM25)
+   ↓
+Query Processing
+   ↓
+Results (ranked + optional phrase boost)

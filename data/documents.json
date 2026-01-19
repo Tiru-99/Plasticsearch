@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Routine",
+    "description": "A good morning routine can improve productivity and mental clarity. Many people start their day with exercise meditation or reading."
+  },
+  {
+    "id": 2,
+    "title": "Healthy Eating Habits",
+    "description": "Healthy eating involves consuming balanced meals with fruits vegetables proteins and whole grains. Drinking enough water is also important."
+  },
+  {
+    "id": 3,
+    "title": "Learning a New Skill",
+    "description": "Learning a new skill requires consistency patience and practice. Setting small goals helps in maintaining motivation over time."
+  },
+  {
+    "id": 4,
+    "title": "Working Remotely",
+    "description": "Remote work offers flexibility and saves commuting time. However it also requires discipline communication and proper time management."
+  },
+  {
+    "id": 5,
+    "title": "Travel Experiences",
+    "description": "Traveling to new places exposes people to different cultures food and traditions. Travel experiences often create lasting memories."
+  },
+  {
+    "id": 6,
+    "title": "Technology in Daily Life",
+    "description": "Technology plays a major role in daily life. Smartphones laptops and the internet have changed how people communicate and work."
+  },
+  {
+    "id": 7,
+    "title": "Reading Books",
+    "description": "Reading books improves knowledge vocabulary and focus. Many people enjoy reading fiction non fiction and biographies."
+  },
+  {
+    "id": 8,
+    "title": "Physical Fitness",
+    "description": "Regular physical fitness activities such as walking running or yoga help maintain good health and reduce stress."
+  },
+  {
+    "id": 9,
+    "title": "Time Management",
+    "description": "Effective time management helps people complete tasks efficiently. Planning prioritizing and avoiding distractions are key strategies."
+  },
+  {
+    "id": 10,
+    "title": "Creative Hobbies",
+    "description": "Creative hobbies like painting writing or playing music allow people to express themselves and relax their minds."
+  }
+]
